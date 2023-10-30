@@ -135,8 +135,8 @@ window.addEventListener("DOMContentLoaded",() => {
               );
   
               // add the fade-out transition, then remove it
-              if (strokeDashOffsetPct === 1) {
-                ring.classList.add(fill360);
+            //   if (strokeDashOffsetPct === 1) {
+            //     ring.classList.add(fill360);
   
                 this.ringTimeouts.push(
                   setTimeout(() => {
