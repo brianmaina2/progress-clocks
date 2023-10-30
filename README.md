@@ -1,1 +1,2 @@
 # progress-clocks
+npm start
